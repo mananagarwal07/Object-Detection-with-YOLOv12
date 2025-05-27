@@ -7,11 +7,6 @@ This repository contains a Google Colab notebook for training and evaluating a Y
 - Visualization of training metrics and results
 - Interactive inference on custom images
 
-## How to Use
-1. Open the notebook in Google Colab.
-2. Follow the instructions in each section.
-3. Upload your own images for inference.
-
 ## Sample Results
 ![Training Curves](results.png)
 ![Confusion Matrix](confusion_matrix.png)
