@@ -10,7 +10,7 @@ This repository contains a Google Colab notebook for training and evaluating a Y
 ## How to Use
 1. Open the notebook in Google Colab.
 2. Follow the instructions in each section.
-3. Upload your own images for inference!
+3. Upload your own images for inference.
 
 ## Sample Results
 ![Training Curves](results.png)
