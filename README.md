@@ -1,4 +1,4 @@
-# YOLOv12 Object Detection - Google Colab Project
+# YOLOv12 Object Detection 
 
 This repository contains a Google Colab notebook for training and evaluating a YOLOv12 object detection model using a Roboflow dataset.
 
